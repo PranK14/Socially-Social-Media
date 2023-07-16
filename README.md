@@ -2,7 +2,7 @@
 
 Overview
 
-The Social Media App is a web-based application designed to provide users with a platform to connect, share, and engage with others through various social media features. This README file serves as a guide to help developers understand the project structure, setup instructions, and other essential information.
+The Social Media App is a web-based application designed to provide users with a platform to connect, share, and engage with others through various social media features. This README file serves as a guide to help developers understand the project structure and other essential information.
 Features
 
 The Social Media App includes the following features:
