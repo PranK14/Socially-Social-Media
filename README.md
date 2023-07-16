@@ -23,11 +23,17 @@ The Social Media App includes the following features:
 
 The Social Media App is built using the following technologies:
 
+
     Frontend: HTML, CSS, JavaScript
+    
     Backend: Node.js, Express.js
+    
     Database: MongoDB
+    
     Authentication: JSON Web Tokens (JWT)
+    
     External Libraries: React, Redux
+    
 
 ## Installation
 
