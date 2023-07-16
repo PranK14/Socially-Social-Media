@@ -35,9 +35,11 @@ To set up the Social Media App locally, follow these steps:
 
  Clone the repository: 
  ` git clone https://github.com/PranK14/Socially-Social-Media.git `
-    Install dependencies: 
+ 
+ Install dependencies: 
     ` npm install `
-    Set up environment variables:
+   
+  Set up environment variables:
         Create a .env file in the server directory.
         Define the following variables in the .env file:
             MONGODB_URI: MongoDB connection string
@@ -46,6 +48,7 @@ To set up the Social Media App locally, follow these steps:
             
    Start the backend in server: 
    ` nodemon index.js `
-    Start the development server in client:
+   
+ Start the development server in client:
     `npm start `
     
