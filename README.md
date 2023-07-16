@@ -47,10 +47,15 @@ To set up the Social Media App locally, follow these steps:
    
   Set up environment variables:
         Create a .env file in the server directory.
+        
         Define the following variables in the .env file:
+        
             MONGODB_URI: MongoDB connection string
+            
             JWT_SECRET: Secret key for JWT authentication
+            
             PORT: Port number for the server (default: 3001)
+
             
    Start the backend in server: 
    ` nodemon index.js `
