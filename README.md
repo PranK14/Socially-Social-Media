@@ -1,6 +1,6 @@
 # Socially-Social-Media
 
-Overview
+##Overview
 
 The Social Media App is a web-based application designed to provide users with a platform to connect, share, and engage with others through various social media features. This README file serves as a guide to help developers understand the project structure and other essential information.
 Features
@@ -19,7 +19,7 @@ The Social Media App includes the following features:
 
     
 
-Tech Stack
+##Tech Stack
 
 The Social Media App is built using the following technologies:
 
@@ -29,4 +29,19 @@ The Social Media App is built using the following technologies:
     Authentication: JSON Web Tokens (JWT)
     External Libraries: React, Redux
 
+##Installation
+
+To set up the Social Media App locally, follow these steps:
+
+    Clone the repository: git clone https://github.com/PranK14/Socially-Social-Media.git
+    Install dependencies: npm install
+    Set up environment variables:
+        Create a .env file in the server directory.
+        Define the following variables in the .env file:
+            MONGODB_URI: MongoDB connection string
+            JWT_SECRET: Secret key for JWT authentication
+            PORT: Port number for the server (default: 3001)
+    Start the backend in server: nodemon index.js
+    Start the development server in client: npm start
+    Open a web browser and access the app at http://localhost:3001 (or the specified port)
     
