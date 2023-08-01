@@ -24,15 +24,14 @@ The Social Media App includes the following features:
 The Social Media App is built using the following technologies:
 
 
-    Frontend: HTML, CSS, JavaScript
+    Frontend: HTML, CSS, JavaScript, React, React Router, Redux toolkit, Redux persistent, Formik & yup, React Dropzone
     
-    Backend: Node.js, Express.js
+    Backend: Node.js, Express.js, Mongoose, Multer
     
     Database: MongoDB
     
     Authentication: JSON Web Tokens (JWT)
     
-    External Libraries: React, Redux
     
 
 ## Installation
